@@ -1,0 +1,24 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+body{
+  background-color: #071e34;
+
+}
+h2{
+  text-align: center;
+}
+
+
+
+textarea{
+  width: 200px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+button{
+  padding: 5px;
+}
